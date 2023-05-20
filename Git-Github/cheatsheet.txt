@@ -1,0 +1,13 @@
+comandos importantes 
+- git clone (para clonar un repositorio)
+- git add . (para agregar los cambios realizados)
+- git commit -m (para crear el comentario en el que se debe explicar el cambio que se hizo)
+- git push origin (para subir los cambios al repositorio)
+- git status (para ver el estado de lo que tengo actualmente en local)
+- git init (para inicializar el proyecto)
+- git remote add origin (para añadir el proyecto a un repositorio existente)
+- git remote -v (para ver a que repositorio esta apuntando el proyecto)
+- git branch -m (para crear una rama)
+- git checkout (para pararse en una rama)
+- git checkout -b (para crear una rama y pararse en ella)
+- git branch -D (para eliminar una rama)
