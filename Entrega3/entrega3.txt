@@ -1,0 +1,32 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos
+sistemas operativos y en otros no?.
+R// 1. Arquitectura de hardware: Un lenguaje de programación puede estar diseñado para funcionar en una
+ arquitectura de hardware específica y no ser compatible con otras arquitecturas. Por ejemplo, un 
+ lenguaje de programación diseñado para sistemas basados ​​en x86 no funcionaría correctamente en sistemas 
+ basados ​​en ARM.
+
+2. Compiladores y herramientas de desarrollo: Los lenguajes de programación requieren compiladores y
+ herramientas de desarrollo específicas para cada sistema operativo. Si estas herramientas no están 
+ disponibles para un sistema operativo específico, el lenguaje de programación no funcionará.
+
+3. Bibliotecas de sistema: Los lenguajes de programación pueden depender de bibliotecas específicas del 
+sistema operativo para su correcto funcionamiento. Si estas bibliotecas no están disponibles para un sistema 
+operativo específico, el lenguaje de programación no podrá funcionar correctamente.
+
+4. Restricciones legales y comerciales: En algunos casos, un lenguaje de programación puede estar restringido 
+por leyes o acuerdos comerciales y solo puede usarse en algunos sistemas operativos específicos. Por ejemplo, 
+algunos lenguajes de programación pueden estar diseñados para ser exclusivos de sistemas operativos de ciertos 
+proveedores.
+
+
+¿Qué tipo de máquina virtual es virtualBox?.
+R// Es una plataforma de máquina virtual de tipo software (hipervisor) de código abierto que permite 
+a los usuarios crear distintas máquinas virtuales en su computadora host para ejecutar diferentes sistemas 
+operativos como invitados. Es decir, VirtualBox puede crear y ejecutar sistemas operativos virtuales en una PC
+ de escritorio o portátil.
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las
+demás? ¿por qué?
+R// Si la máquina virtual que se rompe es aislada del resto de las máquinas virtuales, entonces el problema no 
+afectará a las otras máquinas. Sin embargo, si la máquina virtual fallida comparte recursos con otras máquinas,
+como por ejemplo un disco duro o un adaptador de red, entonces sí puede haber un impacto en las otras máquinas.
