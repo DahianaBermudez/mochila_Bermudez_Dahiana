@@ -1,0 +1,2 @@
+Mac de mi VM  HWaddr 08:00:27:7f:f5:02  
+IP de mi VM  addr:10.0.2.15 
